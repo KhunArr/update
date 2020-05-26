@@ -1,6 +1,6 @@
 {
-    "title" : "New update available",
-    "message" : "- fixed some bugs\n - improved UI",
+    "title" : "Update",
+    "message" : "- new Theme\n - new Font",
     "versionCode" : 2,
     "force" : false,
     "link" : "https://jcsamples.000webhostapp.com/Update%20Sample/updateSample.apk"
